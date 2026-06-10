@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/esn-nancy.github.io/safe-team-publish.github.io/',
+  base: '/safe-team-publish.github.io/',
 });
